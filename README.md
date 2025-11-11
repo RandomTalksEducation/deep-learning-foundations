@@ -2,7 +2,7 @@
 
 ## **Derin Öğrenmenin Temelleri (Foundations of Deep Learning)**
 
-Jupyter Notebook: [Yapay Zekanın Temelleri](https://github.com/randomtalkseducation/deep-learning-foundations/NeuralNetworkFoundations.ipynb)
+Jupyter Notebook: [Derin Ogrenmenin Temelleri](https://github.com/randomtalkseducation/deep-learning-foundations/DeepLearningFoundations.ipynb)
 <hr>
 
 ### 👤 Eğitmen ve Kurum Bilgisi
