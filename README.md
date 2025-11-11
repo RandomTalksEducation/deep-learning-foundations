@@ -2,6 +2,7 @@
 
 ## **Derin Öğrenmenin Temelleri (Foundations of Deep Learning)**
 
+Jupyter Notebook: [Yapay Zekanın Temelleri](https://github.com/randomtalkseducation/deep-learning-foundations/RandomTalksEducation - Seminar Series - Foundations of Deep Learning V1.1.ipynb)
 <hr>
 
 ### 👤 Eğitmen ve Kurum Bilgisi
@@ -9,7 +10,7 @@
 **Prof. Dr. Bekir Taner Dinçer** > Muğla Sıtkı Koçman Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü.
 
 * **İletişim/E-posta:** randomtalkseducation@gmail.com
-* **Akademi Sitesi:** [Random Talks Academy Web Sitesi](http://www.randomtalksacademy.com)
+* **Akademi Sitesi:** [Random Talks Academy Web Sitesi](http://www.randomtalkseducation.com)
 
 <hr>
 
