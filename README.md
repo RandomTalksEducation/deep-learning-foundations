@@ -10,7 +10,7 @@ Jupyter Notebook: [Yapay Zekanın Temelleri](https://github.com/randomtalkseduca
 **Prof. Dr. Bekir Taner Dinçer** > Muğla Sıtkı Koçman Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü.
 
 * **İletişim/E-posta:** randomtalkseducation@gmail.com
-* **Akademi Sitesi:** [Random Talks Academy Web Sitesi](http://www.randomtalkseducation.com)
+* **Akademi Sitesi:** [Random Talks Education Web Sitesi](http://www.randomtalkseducation.com)
 
 <hr>
 
