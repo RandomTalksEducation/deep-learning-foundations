@@ -1,10 +1,5 @@
 # 💡 Random Talks Education - Seminer Serisi
 
-## **Yapay Sinir Ağlarının Temelleri (Foundations of Artificial Neural Networks)**
-
-Jupyter Notebook: [Yapay Sinir Aplarının Temelleri](https://colab.research.google.com/drive/1wg87TNFGOw9S7udcbrq0dnS2YzN1oXse?usp=sharing)
-<hr>
-
 * **Youtube Sitesi:** [Random Talks Education Web Sitesi](https://www.youtube.com/@RandomTalksEducation)
 
 ### 👤 Eğitmen ve Kurum Bilgisi
@@ -55,3 +50,11 @@ SOFTWARE.
 
 * **Notebook Versiyonu:** v1.0.0
 * **Son Güncelleme:** 05 Kasım 2025
+
+
+# Seminerler
+
+1. **Yapay Sinir Ağlarının Temelleri (Foundations of Artificial Neural Networks)**
+
+Jupyter Notebook: [Yapay Sinir Aplarının Temelleri](https://colab.research.google.com/drive/1wg87TNFGOw9S7udcbrq0dnS2YzN1oXse?usp=sharing)
+<hr>
