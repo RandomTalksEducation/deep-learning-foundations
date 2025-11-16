@@ -12,7 +12,7 @@
 
 ### 📄 Notebook Bilgisi ve Lisans
 
-Bu Jupyter Notebook, **Random Talks Education** tarafından düzenlenen seminer serisi kapsamında hazırlanmıştır ve eğitim/araştırma amaçlıdır.
+Burada yayınlanan Jupyter Notebook'lar, **Random Talks Education** tarafından düzenlenen seminer serileri kapsamında hazırlanmıştır ve eğitim/araştırma amaçlıdır.
 
 #### **Kullanım ve Lisans:**
 
