@@ -56,5 +56,5 @@ SOFTWARE.
 
 1. **Yapay Sinir Ağlarının Temelleri (Foundations of Artificial Neural Networks)**
 
-Jupyter Notebook: [Yapay Sinir Aplarının Temelleri](https://colab.research.google.com/drive/1wg87TNFGOw9S7udcbrq0dnS2YzN1oXse?usp=sharing)
+* **Jupyter Notebook**: [Yapay Sinir Ağlarının Temelleri](https://colab.research.google.com/drive/1wg87TNFGOw9S7udcbrq0dnS2YzN1oXse?usp=sharing)
 <hr>
