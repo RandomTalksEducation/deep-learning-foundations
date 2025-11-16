@@ -1,16 +1,17 @@
-# 💡 Random Talks Academy - Seminer Serisi
+# 💡 Random Talks Education - Seminer Serisi
 
-## **Derin Öğrenmenin Temelleri (Foundations of Deep Learning)**
+## **Yapay Sinir Ağlarının Temelleri (Foundations of Artificial Neural Networks)**
 
-Jupyter Notebook: [Derin Ogrenmenin Temelleri](https://colab.research.google.com/drive/1wg87TNFGOw9S7udcbrq0dnS2YzN1oXse?usp=sharing)
+Jupyter Notebook: [Yapay Sinir Aplarının Temelleri](https://colab.research.google.com/drive/1wg87TNFGOw9S7udcbrq0dnS2YzN1oXse?usp=sharing)
 <hr>
+
+* **Youtube Sitesi:** [Random Talks Education Web Sitesi](https://www.youtube.com/@RandomTalksEducation)
 
 ### 👤 Eğitmen ve Kurum Bilgisi
 
 **Prof. Dr. Bekir Taner Dinçer** > Muğla Sıtkı Koçman Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü.
 
 * **İletişim/E-posta:** randomtalkseducation@gmail.com
-* **Akademi Sitesi:** [Random Talks Education Web Sitesi](http://www.randomtalkseducation.com)
 
 <hr>
 
@@ -26,7 +27,7 @@ Bu materyal, **MIT Lisansı** altında yayınlanmıştır. Bu, materyali kullanm
 
 ```
 
-Copyright (c) 2025 Random Talks Academy & Prof. Dr. Bekir Taner Dinçer
+Copyright (c) 2025 Random Talks Education/Academy & Prof. Dr. Bekir Taner Dinçer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
