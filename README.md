@@ -17,7 +17,7 @@ Jupyter Notebook: [Yapay Sinir Aplarının Temelleri](https://colab.research.goo
 
 ### 📄 Notebook Bilgisi ve Lisans
 
-Bu Jupyter Notebook, **Random Talks Academy** tarafından düzenlenen seminer serisi kapsamında hazırlanmıştır ve eğitim/araştırma amaçlıdır.
+Bu Jupyter Notebook, **Random Talks Education** tarafından düzenlenen seminer serisi kapsamında hazırlanmıştır ve eğitim/araştırma amaçlıdır.
 
 #### **Kullanım ve Lisans:**
 
