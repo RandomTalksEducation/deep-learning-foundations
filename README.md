@@ -56,5 +56,6 @@ SOFTWARE.
 
 1. **Yapay Sinir Ağlarının Temelleri (Foundations of Artificial Neural Networks)**
 
+* **Seminer Videosu**:  [Sıfırdan Yapay Zeka: Coşku mu, Gerçek mi?](https://www.youtube.com/watch?v=fAnkbgBzz1A)
 * **Jupyter Notebook**: [Yapay Sinir Ağlarının Temelleri](https://colab.research.google.com/drive/1wg87TNFGOw9S7udcbrq0dnS2YzN1oXse?usp=sharing)
 <hr>
