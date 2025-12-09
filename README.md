@@ -49,7 +49,7 @@ SOFTWARE.
 ### 🗓️ Versiyon ve Güncelleme Tarihi
 
 * **Notebook Versiyonu:** v1.0.0
-* **Son Güncelleme:** 05 Kasım 2025
+* **Son Güncelleme:** 09 Aralık 2025
 
 
 # Seminerler
